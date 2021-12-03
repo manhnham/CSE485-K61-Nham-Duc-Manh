@@ -1,0 +1,9 @@
+.my-header{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.my_intro{
+   text-align: justify;
+}
